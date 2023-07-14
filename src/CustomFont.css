@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Nekst-regular;
+  src: url("../src/assets/Demo_Fonts/Fontspring-DEMO-nekst-regular.otf");
+}
+
+@font-face {
+  font-family: Nekst-medium;
+  src: url("../src/assets/Demo_Fonts/Fontspring-DEMO-nekst-medium.otf");
+}
+
+@font-face {
+  font-family: Nekst-Semibold;
+  src: url("../src/assets/Demo_Fonts/Fontspring-DEMO-nekst-semibold.otf");
+}
+
+@font-face {
+  font-family: Nekst-Bold;
+  src: url("../src/assets/Demo_Fonts/Fontspring-DEMO-nekst-bold.otf");
+}
